@@ -22,3 +22,6 @@ Index for data and projects related to housing in Portland.
   * [Citizenville: How to Take Town Square Digital and Reinvent Government](http://www.amazon.com/Citizenville-Square-Digital-Reinvent-Government/dp/0143124471) (book)
   * [Hack Housing: Empowering Better Decisions](https://hack-housing.hackpad.com/) (hackpack for Seattle Hackathon, February 06-08 2015)
     * [Event Results](https://hack-housing.hackpad.com/Event-Results-V4kFX69hOep)
+* from @[Caged](https://github.com/Caged)
+ * [Finding the perfect house using open data](http://dealloc.me/2014/05/24/opendata-house-hunting/)
+ * [Portland Oregon: The Age of a City](http://labratrevenge.com/pdx/)

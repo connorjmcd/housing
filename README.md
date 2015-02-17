@@ -8,7 +8,7 @@ Index for data and projects related to housing in Portland.
 | ------- | ------ |
 | [Building Footprints](https://www.portlandonline.com/cgis/metadata/Viewer/display.cfm?Meta_layer_id=52413&Db_type=sde&City_Only=False) | City of Portland |
 | [Multifamily Housing Inventory](http://rlisdiscovery.oregonmetro.gov/?action=viewDetail&layerID=2364) | [RLIS](http://rlisdiscovery.oregonmetro.gov/) (Metro) |
-
+| [HUD/Zillow Hack Housing Data & API Documentation](http://hudegis.github.io/) | [HUD EGIS](http://egis.hud.gov/) |
 
 ## Projects
 
